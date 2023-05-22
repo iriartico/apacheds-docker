@@ -6,8 +6,8 @@ The project sources can be found on [GitHub](https://github.com/iriartico/apache
 ## Build
 
     git clone https://github.com/iriartico/apacheds-docker.git
-	  cd apacheds-docker
-    docker build -t apacheds-docker
+    cd apacheds-docker
+    docker build -t iriartico/apache-directory-studio
 
 
 ## Run
